@@ -1,0 +1,2 @@
+ASR-142;KIA;Sportage;5;26000,Negro
+ABC-142;Toyota;Caracol;8;10000,Rojo
