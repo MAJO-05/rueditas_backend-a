@@ -1,2 +1,7 @@
-ASR-142;KIA;Sportage;5;26000,Negro
-ABC-142;Toyota;Caracol;8;10000,Rojo
+ASR-142;KIA;Sportage;5;26000;Negro
+ABC-142;Toyota;Caracol;8;10000;Rojo
+ABC-143; Honda; Civic; 5; 12000; Azul
+ABC-144; Ford; Fiesta; 5; 9500; Verde
+ABC-145; Chevrolet; Spark; 4; 8000; Negro
+ABC-146; Nissan; Versa; 5; 11500; Plata
+ABC-147; Kia; Rio; 5; 11000; Blanco
